@@ -22,6 +22,8 @@ const GameProvider = ({ children }) => {
     setPlayerTwoHand,
     playerThreeHand,
     setPlayerThreeHand,
+    selectedCard,
+    setSelectedCard,
     from,
     setFrom,
     to,
